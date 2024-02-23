@@ -2,4 +2,5 @@
  
 2) After it is done, go to `http://localhost:3001/`
 
-3) Remove images and containers that are not running: `docker system prune -a`
+Remove images and containers that are not running: 
+`docker system prune -a`
